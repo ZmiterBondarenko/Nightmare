@@ -1,0 +1,8 @@
+# no db files
+*.db
+
+#no log files
+*.log
+
+#no bin directory
+/bin
